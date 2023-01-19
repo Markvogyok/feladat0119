@@ -1,0 +1,40 @@
+body{
+    background-color: #ffccaa;
+    font-size: 14px;
+    font-family: Tahoma;
+}
+a{
+    color: #a04000;
+}
+#vorosm{
+    float: left;
+    width: 150px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    color: #a04000;
+}
+p{
+    text-align: justify;
+}
+#elso{
+    font-weight: bold;
+}
+#fig{
+    width: 195px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: right;
+}
+#kozep{
+    text-align: center;
+}
+#harmadik{
+    vertical-align: bottom;
+    text-align: end;
+}
